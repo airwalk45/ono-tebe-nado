@@ -4,7 +4,7 @@
   display: grid;
   grid-template-columns: 1fr max-content 1fr;
   margin: 0 auto;
-  padding: 92px 49px 92px 51px;
+  padding: 92px 49px 86px 51px;
 }
 .header__menu {
   font-size: 18px;
