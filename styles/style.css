@@ -253,6 +253,9 @@
 .footer__menu-link_active {
   text-decoration: none;
 }
+.footer__social {
+  justify-self: end;
+}
 .footer__social-list {
   list-style: none;
   display: flex;
